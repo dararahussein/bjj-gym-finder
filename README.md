@@ -32,7 +32,7 @@ This project is currently under development! New features and improvements are b
 - Google Places API or Yelp API for fetching gym data.
 
 ### Database
-- PostgreSQL or MongoDB for storing gym data and filtering preferences.
+- MongoDB for storing gym data and filtering preferences.
 
 ---
 
@@ -60,5 +60,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-- **Your Name**: [Your GitHub Profile](https://github.com/your-username)
-- **Email**: your-email@example.com
+- **Your Name**: [Your GitHub Profile](https://github.com/dararahussein)
+- **Email**: dararahussein@gmail.com
